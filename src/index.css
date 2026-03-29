@@ -110,7 +110,7 @@ body {
 }
 
 .invitation-text {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   color: var(--text-secondary);
   line-height: 1.8;
   white-space: pre-line;
@@ -129,7 +129,7 @@ body {
 /* "Butiran Majlis", "Aturcara", "Pengesahan Kehadiran" */
 .section-title {
   font-family: var(--font-display);
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: var(--green-800);
   text-align: center;
@@ -175,7 +175,7 @@ body {
 }
 
 .detail-value {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 500;
   color: var(--text-primary);
 }
@@ -224,13 +224,13 @@ body {
 .aturcara-masa {
   font-weight: 600;
   color: var(--green-700);
-  font-size: 0.9rem;
+  font-size: 1.25rem;
   min-width: 50px;
 }
 
 .aturcara-acara {
   color: var(--text-secondary);
-  font-size: 0.9rem;
+  font-size: 1.25rem;
 }
 
 /* ============================================
@@ -468,7 +468,7 @@ body {
   text-align: center;
   padding: 2rem 0 1rem;
   color: var(--text-light);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .footer p {
@@ -478,14 +478,14 @@ body {
 
 .footer-sub {
   font-family: var(--font-body) !important;
-  font-size: 0.8rem !important;
+  font-size: 0.9rem !important;
   color: var(--text-light) !important;
   margin-top: 0.25rem;
 }
 
 .footer-copyright {
   font-family: var(--font-body) !important;
-  font-size: 0.7rem !important;
+  font-size: 0.8rem !important;
   color: var(--text-light) !important;
   margin-top: 1.5rem;
   opacity: 0.6;
