@@ -468,7 +468,7 @@ body {
   text-align: center;
   padding: 2rem 0 1rem;
   color: var(--text-light);
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .footer p {
@@ -478,14 +478,14 @@ body {
 
 .footer-sub {
   font-family: var(--font-body) !important;
-  font-size: 0.8rem !important;
+  font-size: 0.9rem !important;
   color: var(--text-light) !important;
   margin-top: 0.25rem;
 }
 
 .footer-copyright {
   font-family: var(--font-body) !important;
-  font-size: 0.7rem !important;
+  font-size: 0.8rem !important;
   color: var(--text-light) !important;
   margin-top: 1.5rem;
   opacity: 0.6;
