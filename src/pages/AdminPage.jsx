@@ -87,9 +87,9 @@ export default function AdminPage() {
 
         <div className="stat-card success">
           <span className="stat-icon">✓</span>
-          <span className="stat-value">{stats.totalAttending}</span>
+          <span className="stat-value">{stats.totalPax}</span>
           <span className="stat-label">Jumlah Hadir</span>
-          <span className="stat-sub">respons 'Ya'</span>
+          <span className="stat-sub">bilangan orang yang hadir</span>
         </div>
 
         <div className="stat-card danger">
