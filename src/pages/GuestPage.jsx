@@ -86,7 +86,7 @@ export default function GuestPage() {
                 rel="noopener noreferrer"
                 className="maps-link"
               >
-              </a>
+                📌 Lihat di Google Maps              </a>
             )}
           </div>
         </div>
